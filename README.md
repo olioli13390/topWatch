@@ -36,6 +36,7 @@ Ce projet, **TopWatch**, est mon premier projet significatif en **React** avec *
 - **cd topWatch**
 - **npm install**
 - **npm run dev**
+- **utilisez la fausse db dans utils pour se log**
 
 ## Roadmap
 
